@@ -1,5 +1,5 @@
 
-# Temperature Conversion Program
+# PRODIGY_SD_01 - Temperature Conversion Program
 
 This repository contains two Python programs that convert temperatures between Celsius, Fahrenheit, and Kelvin scales:
 1. **Command-Line Version**: A terminal-based program.
@@ -30,12 +30,12 @@ Before you begin, ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/temperature-conversion.git
+   git clone https://github.com/sohamk1112/PRODIGY_SD_01.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd temperature-conversion
+   cd PRODIGY_SD_01
    ```
 
 ## Running the Programs
@@ -46,7 +46,7 @@ To run the command-line version of the temperature conversion program:
 1. Open a terminal and navigate to the project folder.
 2. Run the following command:
    ```bash
-   python temperature_conversion.py
+   python t1.py
    ```
 
 3. The program will prompt you for a temperature and the original unit of measurement, and it will display the converted values for the other two units.
@@ -57,7 +57,7 @@ To run the GUI version of the temperature conversion program:
 1. Open a terminal and navigate to the project folder.
 2. Run the following command:
    ```bash
-   python temperature_conversion_gui.py
+   python t1gui.py
    ```
 
 3. A window will appear where you can input the temperature value and select the unit of measurement. Press the "Convert" button to see the result.
